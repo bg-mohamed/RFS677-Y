@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A reconversed Petroleum engineer</h3>
+<h3 align="center">A reconversed Petroleum engineer, I've never coded before 04/2021. 
+The last time I coded some lines was with TurboPascal when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory school for Engineering 2003</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bg-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="bg-mohamed" /> </p>
 
