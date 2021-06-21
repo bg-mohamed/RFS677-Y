@@ -8,8 +8,6 @@ The last time I coded some lines was with TurboPascal when I was in my final hig
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="medbg"><a class="LI-simple-link" href='https://fr.linkedin.com/in/medbg?trk=profile-badge'>Mohamed Ben Gamra</a></div>
 <a href="https://www.linkedin.com/in/medbg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/medbg/" height="30" width="40" /></a>
 </p>
 
