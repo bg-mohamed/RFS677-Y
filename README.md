@@ -2,10 +2,35 @@
 <h3 align="left">A reconversed Petroleum engineer, I've never coded before 04/2021. 
 The last time I coded some lines was with TurboPascal :D (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003</h3>
 
-<h3 align="left">I've started this github in order to host and shares my academic mini-projects related to my master degree</h3>
+<h3 align="left">I've started this github in order to host and shares my academic mini-projects related to my master degree.
+  
+  
 
+My very first project was a kind of familiarization with Python coding and was a PWVAP calculation of 10 bitcoins exchanges 
+  
+  [:moneybag: PVWAP](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet%20PYTHON.ipynb)
+  
+
+  
+The second project is related to Data management, Data processing & cleaning, Data viz, and an optional section of prediction
+  
+  [:bar_chart: Data Management](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
+  
+  
+
+Then came statistics project at the end of Statistics-1 module, and the project include a statistical descriptive analysis + CAPM/Fama&French 3 and 5 factors application on 10 stocks exchanges from DowJones
+  
+  [:chart_with_upwards_trend: Stats project](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.ipynb)
+  
+  
+  
+ The Text mining project was also a cool one, the topic was Tweets scraping with keywords: "European super League", Text processing, Data viz and Text classification using unsupervised algorithms. I used K-Means, Topic Modeling Latent Dirichlet Allocation & NMF  
+
+   [:clipboard: Text mining - In progress](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TX-Mining%20v1.1.ipynb)
+  
+  
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bg-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="bg-mohamed" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/medbg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/medbg/" height="30" width="40" /></a>
