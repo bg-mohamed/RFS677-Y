@@ -12,7 +12,7 @@ My very first project was a kind of familiarization with Python coding and was a
   
 
   
-The second project is related to Data management, Data processing & cleaning, Data viz, and an optional section of prediction
+The second project is related to Data management, Data processing & cleaning, Data viz, and an optional section of prediction using Logistic regression
   
   [:bar_chart: Data Management](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
   
