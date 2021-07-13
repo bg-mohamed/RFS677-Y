@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm M0ham3d </h1>
 <h3 align="left">A reconversed Petroleum engineer, I've never coded before 04/2021. 
 The last time I coded some lines was with TurboPascal :older_man: (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003</h3>
 
