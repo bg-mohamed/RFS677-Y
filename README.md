@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm m0ham3d
 ### Geologist / Petroleum engineer / Data Enthusiast
-### A reconversed Petroleum engineer, I've never coded before 04/2021. The last time I coded some lines was with TurboPascal 👴 (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003 ###
+### Recently reconversed from Oil&Gas field, I've never coded before 04/2021. The last time I coded some lines was with TurboPascal 👴 (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003 ###
   
 
 <h3 align="left">I've started this github in order to host and shares my academic mini-projects related to my master degree.
