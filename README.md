@@ -43,8 +43,6 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bg-mohamed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bg-mohamed&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/bg-mohamed)  
 
 ![Profile views](https://gpvc.arturio.dev/bg-mohamed)
