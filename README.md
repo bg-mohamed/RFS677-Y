@@ -7,9 +7,7 @@ Skills: Python / Machine Learning / Deep Learning / Data Science / Data Engineer
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Master Degree in Paris University1 Panthéon Sorbonne 
 - 💬 Ask me about Geology, Drilling, Data Science :D 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bg-mohamed)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/medbg//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCiPV2yoCEmqz9t4LXOb4xsQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mohamedbg)  
+  
 
 <h3 align="left">I've started this github in order to host and shares my academic mini-projects related to my master degree.
   
@@ -49,4 +47,6 @@ Then came statistics project at the end of Statistics-1 module, and the project 
 
 ![GitHub metrics](https://metrics.lecoq.io/bg-mohamed)  
 
-![Profile views](https://gpvc.arturio.dev/bg-mohamed)  
+![Profile views](https://gpvc.arturio.dev/bg-mohamed)
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bg-mohamed)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/medbg//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCiPV2yoCEmqz9t4LXOb4xsQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mohamedbg)
