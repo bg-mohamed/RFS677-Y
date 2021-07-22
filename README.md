@@ -28,6 +28,13 @@ Then came statistics project at the end of Statistics-1 module, and the project 
  The Text mining project was also a cool one, the topic was Tweets scraping with keywords: "European super League", Text processing, Data viz and Text classification using unsupervised algorithms. I used K-Means, Topic Modeling Latent Dirichlet Allocation & NMF  
 
    [:clipboard: Text mining - In progress](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v2.ipynb)
+  
+  
+  
+  The Time Series project tackled the COV-19 cases & confirmed deaths stats: The targeted countries were the European ones, The main parts of the projects were EDA and outliers treatments wich were mainly due to double tests  PCR/Antigenic for cases numbers and wrong classification of deaths causes. A Data Viz part which highlighted a couple of statistical rates that explains differents aspects of countries reactions to the pandemic, the a modelisation part with Random walk,ARMA,SARIMAX and XGBoost Regressor applied on time Series.    
+
+   [:hourglass_flowing_sand: Time Series](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
