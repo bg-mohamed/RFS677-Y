@@ -27,7 +27,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
  The Text mining project was also a cool one, the topic was Tweets scraping with keywords: "European super League", Text processing, Data viz and Text classification using unsupervised algorithms. I used K-Means, Topic Modeling Latent Dirichlet Allocation & NMF  
 
-   [:clipboard: Text mining - In progress](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v2.ipynb)
+   [:clipboard: Text mining ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
   
   
   
