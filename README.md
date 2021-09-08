@@ -31,7 +31,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   
   
-  The Time Series project tackled the COV-19 cases & confirmed deaths stats: The targeted countries were the European ones, The main parts of the projects were EDA and outliers treatments wich were mainly due to double tests  PCR/Antigenic for cases numbers and wrong classification of deaths causes. A Data Viz part which highlighted a couple of statistical rates that explains differents aspects of countries reactions to the pandemic, the a modelisation part with Random walk,ARMA,SARIMAX and XGBoost Regressor applied on time Series.    
+  The Time Series project tackled the COV-19 cases & confirmed deaths stats: The targeted countries were the European ones, The main parts of the projects were EDA and outliers treatments wich were mainly due to double tests  PCR/Antigenic for cases numbers and wrong classification of deaths causes. A Data Viz part which highlighted a couple of statistical rates that explains differents aspects of countries reactions to the pandemic, then a modelisation part with Random walk,ARMA,SARIMAX and XGBoost Regressor applied on time Series.    
 
    [:hourglass_flowing_sand: Time Series](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
   
