@@ -8,7 +8,7 @@
   
 
 My very first project was a kind of familiarization with Python coding and was a PWVAP calculation of 10 bitcoins exchanges 
-  
+  ---
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/requirements.txt)
   
