@@ -12,9 +12,9 @@ My very first project was a kind of familiarization with Python coding and was a
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/requirements.txt)
   
-  [:snake: Py](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.py)
+  [:snake: PWVAP.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.py)
   
-  [:moneybag: Jupyter Notebook](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
+  [:moneybag: PWVAP.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
   
 ---
   
@@ -22,21 +22,29 @@ The second project is related to Data management, Data processing & cleaning, Da
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/requirements.txt)
   
-  [:snake: Py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.py)
+  [:snake: Data Management.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.py)
   
-  [:bar_chart: Data Management](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
+  [:bar_chart: Data Management.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
   
   
 ---
 Then came statistics project at the end of Statistics-1 module, and the project include a statistical descriptive analysis + CAPM/Fama&French 3 and 5 factors application on 10 stocks exchanges from DowJones
   
-  [:chart_with_upwards_trend: Stats project](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.ipynb)
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/requirements.txt)
+  
+  [:snake: Stats project.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.py)
+  
+  [:chart_with_upwards_trend: Stats project.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.ipynb)
   
   
   ---
  The Text mining project was also a cool one, the topic was Tweets scraping with keywords: "European super League", Text processing, Data viz and Text classification using unsupervised algorithms. I used K-Means, Topic Modeling Latent Dirichlet Allocation & NMF  
+  
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/requirements.txt)
+  
+  [:snake: Text mining.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.py)
 
-   [:clipboard: Text mining ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
+  [:clipboard: Text mining ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
   
   
   ---
