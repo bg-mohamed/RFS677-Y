@@ -64,9 +64,9 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/requirements.txt)
   
-  [:snake: Time Series.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.py)
+  [:snake: Machine Learning.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.py)
 
-  [:robot: Machine Learning](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.ipynb)
+  [:robot: Machine Learning.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.ipynb)
   
   
   ---
