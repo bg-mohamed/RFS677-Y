@@ -6,9 +6,9 @@
 <h3 align="left">I've started this github in order to host and shares my academic mini-projects related to my master degree.
   
   
-
+---
 My very first project was a kind of familiarization with Python coding and was a PWVAP calculation of 10 bitcoins exchanges 
-  ---
+  
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/requirements.txt)
   
@@ -16,32 +16,36 @@ My very first project was a kind of familiarization with Python coding and was a
   
   [:moneybag: Jupyter Notebook](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
   
-
+---
   
 The second project is related to Data management, Data processing & cleaning, Data viz, and an optional section of prediction using Logistic regression
+  
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/requirements.txt)
+  
+  [:snake: Py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.py)
   
   [:bar_chart: Data Management](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
   
   
-
+---
 Then came statistics project at the end of Statistics-1 module, and the project include a statistical descriptive analysis + CAPM/Fama&French 3 and 5 factors application on 10 stocks exchanges from DowJones
   
   [:chart_with_upwards_trend: Stats project](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.ipynb)
   
   
-  
+  ---
  The Text mining project was also a cool one, the topic was Tweets scraping with keywords: "European super League", Text processing, Data viz and Text classification using unsupervised algorithms. I used K-Means, Topic Modeling Latent Dirichlet Allocation & NMF  
 
    [:clipboard: Text mining ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
   
   
-  
+  ---
   The Time Series project tackled the COV-19 cases & confirmed deaths stats: The targeted countries were the European ones, The main parts of the projects were EDA and outliers treatments wich were mainly due to double tests  PCR/Antigenic for cases numbers and wrong classification of deaths causes. A Data Viz part which highlighted a couple of statistical rates that explains differents aspects of countries reactions to the pandemic, then a modelisation part with Random walk,ARMA,SARIMAX and XGBoost Regressor applied on time Series.    
 
    [:hourglass_flowing_sand: Time Series](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
   
   
-  
+  ---
   The Machine Learning project used an open source dataset from Kaggle "Are you Gonna be Hired?" which was shuffled, modified & changed prior given to usage in the project, the main objective was a binary classification of the target: Hired = 1 / Not Hired = 0.
   The principle I followed in this project, was to focus on EDA and dealing with NaNs & Outliers, then after some features engineering, choosing a couple of Classification Algorithms and select the best model based on ROC/AUC score, models used : Logistic Regeression, KNN, Random Forest, Gradient Boosting, XGBoost, SVC.
  Features selection was also applied after tunning Hyperparameters.
