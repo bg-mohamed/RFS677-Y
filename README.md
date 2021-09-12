@@ -8,8 +8,9 @@
   
 
 My very first project was a kind of familiarization with Python coding and was a PWVAP calculation of 10 bitcoins exchanges 
-  
-  [:moneybag: PWVAP](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/requirements.txt)
+  [:snake: Py](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.py)
+  [:moneybag: Jupyter Notebook](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
   
 
   
