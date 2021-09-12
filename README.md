@@ -44,22 +44,32 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   [:snake: Text mining.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.py)
 
-  [:clipboard: Text mining ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
+  [:clipboard: Text mining.ipynb ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
   
   
   ---
   The Time Series project tackled the COV-19 cases & confirmed deaths stats: The targeted countries were the European ones, The main parts of the projects were EDA and outliers treatments wich were mainly due to double tests  PCR/Antigenic for cases numbers and wrong classification of deaths causes. A Data Viz part which highlighted a couple of statistical rates that explains differents aspects of countries reactions to the pandemic, then a modelisation part with Random walk,ARMA,SARIMAX and XGBoost Regressor applied on time Series.    
 
-   [:hourglass_flowing_sand: Time Series](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/requirements.txt)
+  
+  [:snake: Time Series.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.py)
+  
+  [:hourglass_flowing_sand: Time Series.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
   
   
   ---
   The Machine Learning project used an open source dataset from Kaggle "Are you Gonna be Hired?" which was shuffled, modified & changed prior given to usage in the project, the main objective was a binary classification of the target: Hired = 1 / Not Hired = 0.
   The principle I followed in this project, was to focus on EDA and dealing with NaNs & Outliers, then after some features engineering, choosing a couple of Classification Algorithms and select the best model based on ROC/AUC score, models used : Logistic Regeression, KNN, Random Forest, Gradient Boosting, XGBoost, SVC.
  Features selection was also applied after tunning Hyperparameters.
+  
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/requirements.txt)
+  
+  [:snake: Time Series.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.py)
 
   [:robot: Machine Learning](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.ipynb)
   
+  
+  ---
   
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
