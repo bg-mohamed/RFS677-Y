@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm m0ham3d
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bg-mohamed)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medbg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiPV2yoCEmqz9t4LXOb4xsQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mohamedbg)
+
+#### [GitHub](https://github.com/bg-mohamed) | [LinkedIn](https://www.linkedin.com/in/medbg/) | [Kaggle](https://www.kaggle.com/mohamedbg) | [YouTube](https://www.youtube.com/channel/UCiPV2yoCEmqz9t4LXOb4xsQ)  |
+
  
 ### Geologist / Petroleum engineer / Data Enthusiast
 ### Recently reconversed from Oil&Gas field, I've never coded before 04/2021. The last time I coded some lines was with TurboPascal 👴 (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003 ###
@@ -71,6 +73,8 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bg-mohamed)](https://github.com/anuraghazra/github-readme-stats)
 
+ 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bg-mohamed)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medbg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCiPV2yoCEmqz9t4LXOb4xsQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/mohamedbg)
 
 ![Profile views](https://gpvc.arturio.dev/bg-mohamed)
   
