@@ -12,9 +12,7 @@ My very first project was a kind of familiarization with Python coding and was a
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/requirements.txt)
   
-  [:snake: PWVAP.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.py)
-  
-  [:moneybag: PWVAP.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
+  [:moneybag: PWVAP](https://github.com/bg-mohamed/RFS677-Y/blob/main/PVWAP/Projet_PYTHON.ipynb)
   
 ---
   
@@ -22,9 +20,7 @@ The second project is related to Data management, Data processing & cleaning, Da
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/requirements.txt)
   
-  [:snake: Data Management.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.py)
-  
-  [:bar_chart: Data Management.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
+  [:bar_chart: Data Management](https://github.com/bg-mohamed/RFS677-Y/blob/main/Data%20Management/Projet_DATA-v3.4-Final.ipynb)
   
   
 ---
@@ -32,9 +28,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/requirements.txt)
   
-  [:snake: Stats project.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.py)
-  
-  [:chart_with_upwards_trend: Stats project.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.ipynb)
+  [:chart_with_upwards_trend: Stats project](https://github.com/bg-mohamed/RFS677-Y/blob/main/Statistique%201/Projet_statistique1.ipynb)
   
   
   ---
@@ -42,9 +36,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/requirements.txt)
   
-  [:snake: Text mining.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.py)
-
-  [:clipboard: Text mining.ipynb ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
+  [:clipboard: Text mining ](https://github.com/bg-mohamed/RFS677-Y/blob/main/Text%20mining%20Twitter/Projet%20TXT-Mining%20v03.final.ipynb)
   
   
   ---
@@ -52,9 +44,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
 
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/requirements.txt)
   
-  [:snake: Time Series.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.py)
-  
-  [:hourglass_flowing_sand: Time Series.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
+  [:hourglass_flowing_sand: Time Series](https://github.com/bg-mohamed/RFS677-Y/blob/main/Temporal%20Series/TimeSeries_v6.2_final.ipynb)
   
   
   ---
@@ -64,9 +54,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/requirements.txt)
   
-  [:snake: Machine Learning.py](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.py)
-
-  [:robot: Machine Learning.ipynb](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.ipynb)
+  [:robot: Machine Learning](https://github.com/bg-mohamed/RFS677-Y/blob/main/Machine%20Learning/Machine_Learning_Classification.ipynb)
   
   
   ---
