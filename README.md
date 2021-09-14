@@ -4,8 +4,8 @@
 #### [GitHub](https://github.com/bg-mohamed) | [LinkedIn](https://www.linkedin.com/in/medbg/) | [Kaggle](https://www.kaggle.com/mohamedbg) | [YouTube](https://www.youtube.com/channel/UCiPV2yoCEmqz9t4LXOb4xsQ)  |
 
  
-### Geologist / Petroleum engineer / Data Enthusiast
-### Recently reconversed from Oil&Gas field, I've never coded before 04/2021. The last time I coded some lines was with TurboPascal 👴 (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003 ###
+#### Geologist / Petroleum engineer / Data Enthusiast
+#### Recently reconversed from Oil&Gas field, I've never coded before 04/2021. The last time I coded some lines was with TurboPascal 👴 (I know I'm old) when I was in my final high school year 2002 and with C & Matlab when I was on the preparatory classes for Engineering school 2003 ###
   
 
 <h4 align="left">I've started this github in order to host and shares my academic mini-projects related to my master degree.
