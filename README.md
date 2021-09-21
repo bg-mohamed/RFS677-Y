@@ -54,6 +54,7 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   ---
   The Machine Learning project used an open source dataset from Kaggle "Are you Gonna be Hired?" which was shuffled, modified & changed prior given to usage in the project, the main objective was a binary classification of the target: Hired = 1 / Not Hired = 0.
+  One of conditions in this project was to keep all the Test dataset complete without dropping Nans or reshuffling.
   The principle I followed in this project, was to focus on EDA and dealing with NaNs & Outliers, then after some features engineering, choosing a couple of Classification Algorithms and select the best model based on ROC/AUC score, models used : Logistic Regeression, KNN, Random Forest, Gradient Boosting, XGBoost, SVC.
  Features selection was also applied after tunning Hyperparameters.
   
