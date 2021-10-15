@@ -64,8 +64,13 @@ Then came statistics project at the end of Statistics-1 module, and the project 
   
   
   ---
+  The Last project in this degree is a Computer vision multiclass classification,based on a TF Keras backend, we used an open source dataset from Zalando "Fashion MNIST". In the project, I used a DNN / CNN & Transfer learning models (Inception V3 & VGG19), tunning hyperparameters with Keras Tuner & Hyperband, an optionnal XAI part was added with SamplingExplainer of SHAP package but the methodology can be improved. 
   
+  [:page_with_curl: Requirements](https://github.com/bg-mohamed/RFS677-Y/blob/main/Deep%20Learning/requirements.txt)
+  
+  [🧠: Deep Learning](https://github.com/bg-mohamed/RFS677-Y/blob/main/Deep%20Learning/Projet_Deep.ipynb)
 
+  ---
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 <h3 align="left">Languages and Tools:</h3>
