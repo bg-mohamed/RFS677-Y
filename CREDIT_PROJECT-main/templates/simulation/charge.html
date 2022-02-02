@@ -1,0 +1,39 @@
+{% extends 'main.html'%}
+
+{% load static %}
+
+{% block content %}
+
+
+
+<div class="forms-container">
+    <form action="{% url 'simulation:charge' %}"  method="post">
+        {% csrf_token %}
+
+            <div class="form-control">
+                <label>Prêt immobilier</label>
+                <input name="real_estate_loan" id="real_estate_loan" type="radio" class="information-form" placeholder="0" >
+            </div>
+
+
+            <div class="form-control">
+                <label>Nombre de crédits actifs ?</label>
+                <input name="active_loan" id="active_loan" type="number" class="information-form" placeholder="0">
+            </div>
+            <div class="form-control">
+                <label>Types de crédits</label>
+                <input name="loan_type" id="loan_type" type="text" class="information-form" placeholder="Crédit logement / Crédit conso">
+            </div>
+            <div class="form-control">
+                <label>Coûts mensuel</label>
+                <input name="monthly_amount" id="monthly_amount" type="number" class="information-form" placeholder="0">
+            </div> 
+
+            <input type="submit" class="btn" value='suivant'>
+            
+    </form>
+
+
+</div>
+
+{% endblock %}

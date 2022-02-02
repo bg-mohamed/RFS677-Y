@@ -1,0 +1,29 @@
+{% extends 'main.html' %}
+
+{% load static %}
+
+{% block content%}
+
+<div class="forms-container">
+    <form action="#">
+        
+            <div class="form-control">
+                <label>Montant du pr&ecirc;t</label>
+                <input name="name" type="text" class="information-form" placeholder="0">
+            </div>
+            <div class="form-control">
+                <label>Durée</label>
+                <input name="name" type="text" class="information-form" placeholder="24 Mois">
+            </div>
+            
+            <input type="button" class="btn" onClick="location.href='simulation/revenu'" value='suivant'>
+    </form>
+
+</div>
+
+
+
+{% endblock %}
+
+
+

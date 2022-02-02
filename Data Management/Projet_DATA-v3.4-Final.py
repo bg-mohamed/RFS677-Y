@@ -12,13 +12,13 @@ from pandas_profiling import ProfileReport
 import seaborn as sns
 import math 
 import warnings
-warnings.filterwarnings('ignore')
 from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
 from sklearn.linear_model import LogisticRegression
-from sklearn import metrics
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
+warnings.filterwarnings('ignore')
+
 
 
 # ## INPUT
@@ -27,7 +27,7 @@ from sklearn.metrics import confusion_matrix
 
 
 #Lecture du fichier CSV en notifiant le delimiteur comme étant point-virgule
-df = pd.read_csv("data/du-vert-pres-de-chez-moi.csv", sep=';')
+df = pd.read_csv(r'du-vert-pres-de-chez-moi.csv', sep=';')
 
 
 # In[3]:

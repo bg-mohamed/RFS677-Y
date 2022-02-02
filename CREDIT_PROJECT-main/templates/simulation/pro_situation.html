@@ -1,0 +1,41 @@
+{% extends 'main.html'%}
+
+{% load static %}
+
+{% block content %}
+
+
+<div class="forms-container">
+    <form action="{% url 'simulation:pro_situation' %}"  method="post">
+        {% csrf_token %}
+
+            <div class="form-control">
+                <label>Situation professionnelle</label>
+                <input name="situation" id="situation" type="text" class="information-form" placeholder="Actif / Chomage / Retraité ?">
+            </div>
+            <div class="form-control">
+                <label>Secteurd'activités</label>
+                <input name="sector" id="sector" type="text" class="information-form" placeholder="Entrez votre secteur d'activités">
+            </div>
+            <div class="form-control">
+                <label>Profession</label>
+                <input name="profession" id="profession" type="text" class="information-form" placeholder="Entrez votre profession">
+            </div>
+            <div class="form-control">
+                <label>Date embauche</label>
+                <input name="hire_date" id="hire_date" type="text" class="information-form" placeholder="Entrez votre date d'embauche">
+            </div>
+            <div class="form-control">
+                <label>Type de contrat</label>
+                <input name="contract_type" id="contract_type" type="text" class="information-form" placeholder="Sélectionnez votre type de contrat">
+            </div> 
+
+            <input type="submit" class="btn" value='suivant'>
+        
+    </form>
+
+
+</div>
+
+
+ {% endblock %}
